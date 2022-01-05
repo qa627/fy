@@ -1,1 +1,23 @@
+#name {
+  font-size: 50px;
+  color: saddlebrown;
+  margin: 10px 0px;
+}
 
+#button-in {
+  background-color:darkblue;
+  border: 2px solid blue;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  width: 80px;
+  height: 45px;
+  border-radius: 8px;
+}
+
+#inter {
+  width: 200px;
+  height: 40px;
+  font-size: 20px;
+}

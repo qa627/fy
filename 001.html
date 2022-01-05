@@ -1,1 +1,29 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>猜謎時間</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <p style="font-size: 20px;">英雄來到巨龍前，巨龍說:
+          <br>
+          想救出公主，就得先猜出我的名子。這裡有四個字，重組之後就是我的名字。
+        </p>
+        <p id="name">西 歐 里 斯</p>
+        <input type="text" id="inter">
+        <button type="button" onclick="kick()" id="button-in">確定</button>
+        <script>
+            function kick(){
+                let text = document.getElementById("inter").value;
+                if (text == "歐西里斯") {
+                  window.alert("答對了");
+                  window.location.href="002.html";
+                } 
+                else {
+                  window.alert("答錯了\n給你一個提示:3124");
+                }
+            }
+        </script>
+    </body>
+</html>

@@ -1,3 +1,7 @@
+body{
+  margin: 0;
+}
+
 /* 001 */
 #name {
   font-size: 50px;
@@ -24,4 +28,7 @@
 }
 
 /* 002 */
+img{
+  margin: 3% 0% 0% 10%;
+  width: 80%;
 .myMOUSE{ cursor: default; }

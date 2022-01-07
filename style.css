@@ -3,6 +3,10 @@ body{
 }
 
 /* 001 */
+#article {
+  font-size: 20px;
+}
+
 #name {
   font-size: 50px;
   color: saddlebrown;

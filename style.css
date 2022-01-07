@@ -4,11 +4,11 @@ body{
 
 /* 001 */
 #article {
-  font-size: 20px;
+  font-size: 1.5em;
 }
 
 #name {
-  font-size: 50px;
+  font-size: 3em;
   color: saddlebrown;
   margin: 10px 0px;
 }

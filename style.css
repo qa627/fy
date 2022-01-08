@@ -33,6 +33,10 @@ body{
 }
 
 /* 002 */
+img{
+  margin: 2% 0% 0% 10%;
+}
+
 .myMOUSE{ cursor: default; }
 
 .plot{

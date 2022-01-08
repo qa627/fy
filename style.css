@@ -41,6 +41,8 @@ body{
 .myMOUSE{ cursor: default; }
 
 .image{
+  margin: 2% 0% 0% 10%;
+  width: 100%;
  position: relative;
 }
 

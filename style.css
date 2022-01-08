@@ -33,23 +33,7 @@ body{
 }
 
 /* 002 */
-/* img{
-  margin: 3% 0% 0% 10%;
-  width: 80%;
-} */
-
 .myMOUSE{ cursor: default; }
-
-.image{
-  margin: 2% 0% 0% 10%;
-  width: 100%;
- position: relative;
-}
-
-.image a{
- display: block;
- position: absolute;
-}
 
 .plot{
     position: absolute;

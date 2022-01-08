@@ -37,11 +37,19 @@ body{
   margin: 3% 0% 0% 10%;
   width: 80%;
 } */
+
 .myMOUSE{ cursor: default; }
+
 .image{
  position: relative;
 }
+
 .image a{
  display: block;
  position: absolute;
+}
+
+.music{
+    position: absolute;
+    top: 93%;
 }
